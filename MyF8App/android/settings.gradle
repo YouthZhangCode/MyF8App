@@ -1,0 +1,3 @@
+rootProject.name = 'MyF8App'
+
+include ':app'
